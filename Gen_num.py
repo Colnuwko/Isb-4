@@ -59,6 +59,6 @@ def num_selection(data: dict, core) -> str:
             if result:
                 p.terminate()
                 print(result)
-                Moooooon_ALG.luna(result)
-                return True
+                #Moooooon_ALG.luna(result)
+                return result
 
